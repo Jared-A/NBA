@@ -7,6 +7,8 @@ NBA Player Shots (Season/Career)
 
 > In the notebooks titled "NBA_Player_Career_Stats.ipynb" and "NBA_Player_Stats_Single_Season.ipynb" you will find visualizations containing players shots and their statistics for either a given year or for their careers.
 
+> This project takes both images and data from [Stats.NBA](stats.nba.com) and [BleacherReport](BleacherReport.com)
+
 ![Curry KDE](Stephen_Curry_2015-16_kde.png)
 
 ![Dirk HEX](Dirk_Nowitzki_career_hex.png)
